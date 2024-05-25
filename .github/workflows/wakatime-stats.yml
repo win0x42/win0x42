@@ -20,3 +20,4 @@ jobs:
           SHOW_OS: FALSE
           SHOW_TIMEZONE: FALSE
           SHOW_SHORT_INFO: FALSE
+          SHOW_PROJECTS: FALSE
