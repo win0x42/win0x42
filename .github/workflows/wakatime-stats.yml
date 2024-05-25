@@ -18,4 +18,7 @@ jobs:
           SHOW_LOC_CHART: FALSE
           SHOW_EDITORS: FALSE
           SHOW_OS: FALSE
+          SHOW_TIMEZONE: FALSE
+          SHOW_SHORT_INFO: FALSE
+          UPDATED_DATE_FORMAT: FALSE
           
