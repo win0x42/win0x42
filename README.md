@@ -28,24 +28,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10 commits          █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-🌆 Daytime                17 commits          █████████░░░░░░░░░░░░░░░░   36.17 % 
-🌃 Evening                15 commits          ████████░░░░░░░░░░░░░░░░░   31.91 % 
-🌙 Night                  5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
 **I Mostly Code in JavaScript** 
 
@@ -58,7 +41,7 @@ Python                   1 repo              █████░░░░░░�
 
 
 
- Last Updated on 08/07/2024 15:18:37 UTC
+ Last Updated on 08/07/2024 16:21:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
