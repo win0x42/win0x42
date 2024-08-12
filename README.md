@@ -26,7 +26,7 @@
 ***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,7 +44,7 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -58,7 +58,7 @@ Python                   1 repo              █████░░░░░░�
 
 
 
- Last Updated on 12/08/2024 16:22:27 UTC
+ Last Updated on 12/08/2024 17:15:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
