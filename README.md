@@ -26,7 +26,7 @@
 ***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -44,7 +44,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     4 mins              █████████████████░░░░░░░░   66.01 % 
+INI                      1 min               ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -58,7 +61,7 @@ Python                   1 repo              █████░░░░░░�
 
 
 
- Last Updated on 17/10/2024 16:26:15 UTC
+ Last Updated on 17/10/2024 17:17:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
