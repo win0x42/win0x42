@@ -26,7 +26,7 @@
 ***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
 
@@ -61,7 +61,7 @@ Python                   1 repo              █████░░░░░░�
 
 
 
- Last Updated on 30/11/2024 13:16:17 UTC
+ Last Updated on 30/11/2024 14:07:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
