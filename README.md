@@ -26,7 +26,7 @@
 ***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
 
@@ -44,10 +44,9 @@
 
 ```text
 💬 Programming Languages: 
-Nginx configuration file 12 mins             ██████████░░░░░░░░░░░░░░░   38.65 % 
-HTML                     10 mins             ████████░░░░░░░░░░░░░░░░░   32.61 % 
-Python                   8 mins              ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Nginx configuration file 46 mins             ██████████████████░░░░░░░   71.01 % 
+HTML                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Python                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -61,7 +60,7 @@ Python                   1 repo              █████░░░░░░�
 
 
 
- Last Updated on 30/11/2024 16:09:45 UTC
+ Last Updated on 30/11/2024 17:07:21 UTC
 <!--END_SECTION:waka-->
 
 <!--
