@@ -26,8 +26,6 @@
 ***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2014%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
 
 **I'm an Early 🐤** 
@@ -60,7 +58,7 @@ Python                   1 repo              █████░░░░░░�
 
 
 
- Last Updated on 01/12/2024 15:08:38 UTC
+ Last Updated on 01/12/2024 16:09:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
