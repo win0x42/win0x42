@@ -26,7 +26,7 @@
 ***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,9 +44,9 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               31 mins             ████████████████░░░░░░░░░   62.38 % 
-HTML                     18 mins             █████████░░░░░░░░░░░░░░░░   37.48 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+JavaScript               1 hr 15 mins        ███████████████████████░░   93.45 % 
+HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -60,7 +60,7 @@ Python                   1 repo              █████░░░░░░�
 
 
 
- Last Updated on 05/02/2025 16:11:05 UTC
+ Last Updated on 05/02/2025 17:07:59 UTC
 <!--END_SECTION:waka-->
 
 <!--
