@@ -1,6 +1,6 @@
 ### Some Things About Me:👋
-- 🌱 I’m currently learning about HTML, CSS, JavaScript
-- 🤔 I’m looking for Web Deveploment career path
+- 👨‍💻 Self-taught developer
+- 🔍 Passionate about exploration, staying focused
 - 🎬 Favorite TV series is "MR.ROBOT"
 - 🎵 Always listening to lofi or chillhop beats
 - ⚡ Fun fact: Besides learning web development, I'm also diving into cybersecurity
