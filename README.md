@@ -1,6 +1,6 @@
 ### Some Things About Me:👋
 - 👨‍💻 Self-taught developer
-- 🔍 Passionate about exploration, staying focused
+- 🔍 Passionate about pentesting
 - 🎬 Favorite TV series is "MR.ROBOT"
 - 🎵 Always listening to lofi or chillhop beats
 - ⚡ Fun fact: Besides learning web development, I'm also diving into cybersecurity
