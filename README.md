@@ -7,7 +7,7 @@
 
 ### Some Stats: 📈
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simon068&layout=compact&langs_count=8&card_width=320"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=win0x42&layout=compact&langs_count=8&card_width=320"/>
 </a>
 
 ### Languages and Tools:👍
@@ -66,7 +66,7 @@ Python                   1 repo              █████░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--
-**simon068/simon068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**win0x24/win0x24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
