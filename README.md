@@ -26,7 +26,7 @@
 ***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -51,17 +51,17 @@ INI                      17 mins             ░░░░░░░░░░░�
 Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in CSS** 
 
 ```text
-JavaScript               2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-CSS                      2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+CSS                      2 repos             █████████████████░░░░░░░░   66.67 % 
+JavaScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
 ```
 
 
 
 
- Last Updated on 04/04/2025 10:10:29 UTC
+ Last Updated on 04/04/2025 11:08:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
