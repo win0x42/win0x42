@@ -27,8 +27,6 @@
 ***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%2035%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **I'm an Early 🐤** 
@@ -62,7 +60,7 @@ CSS                      2 repos             ███████████�
 
 
 
- Last Updated on 21/05/2025 15:11:24 UTC
+ Last Updated on 21/05/2025 16:12:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
