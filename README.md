@@ -27,7 +27,7 @@
 ***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,7 +45,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               5 mins              █████████████████░░░░░░░░   69.51 % 
+CSS                      2 mins              ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -58,7 +61,7 @@ CSS                      2 repos             ███████████�
 
 
 
- Last Updated on 25/05/2025 16:10:51 UTC
+ Last Updated on 25/05/2025 17:07:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
