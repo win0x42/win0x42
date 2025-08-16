@@ -27,7 +27,7 @@
 ***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-622%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2043%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -43,7 +43,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      4 hrs 50 mins       ███████████████░░░░░░░░░░   58.79 % 
+JavaScript               2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.84 % 
+HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -57,7 +61,7 @@ Python                   1 repo              █████░░░░░░�
 
 
 
- Last Updated on 16/08/2025 16:01:04 UTC
+ Last Updated on 16/08/2025 17:01:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
