@@ -27,8 +27,6 @@
 ***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-689%20hrs%201%20min-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -60,7 +58,7 @@ Python                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 20/09/2025 15:01:27 UTC
+ Last Updated on 20/09/2025 16:01:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
